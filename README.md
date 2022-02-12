@@ -1,5 +1,5 @@
 ### WIP
-![demo](https://i.gyazo.com/dd5e0a61b4ec7a990224a3e819c5e987.gif)
+![demo](https://www.memecreator.org/static/images/memes/5421234.jpg)
 
 <!--
 **Peibl/peibl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
